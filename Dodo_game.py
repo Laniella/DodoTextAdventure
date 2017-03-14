@@ -9,7 +9,7 @@ One day when Dodo, princess and Hamster went for a hike,
 Princess slipped and fell into a dark hole.
 Dodo and Hamster jumped down to the hole to save princess.
 When Dodo and Hamster finally landed into soft cushion of moss,
-they saw little furry creatures that was carrying creatures away!
+they saw little furry creatures that was carrying princess away!
 Without hesitation Dodo and Hamster followed the creatures.
 -------------------------------------------------------------------
 """
